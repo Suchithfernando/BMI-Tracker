@@ -232,7 +232,7 @@ namespace BMI_Calculator__Graphical_
                 }
                 double m = ConvertTocm(height1, height2) / 100;
 
-                //Generate BMI Value
+                //Generate BMI Value with given inputs
                 double bmi = bmical(m, kg);
                 bmi = Math.Round(bmi, 3);
 
