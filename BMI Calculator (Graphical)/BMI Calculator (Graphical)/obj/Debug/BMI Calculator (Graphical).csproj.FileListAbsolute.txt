@@ -9,3 +9,14 @@ C:\Users\Alpha\source\repos\BMI Calculator (Graphical)\BMI Calculator (Graphical
 C:\Users\Alpha\source\repos\BMI Calculator (Graphical)\BMI Calculator (Graphical)\obj\Debug\BMI Calculator (Graphical).exe
 C:\Users\Alpha\source\repos\BMI Calculator (Graphical)\BMI Calculator (Graphical)\obj\Debug\BMI Calculator (Graphical).pdb
 C:\Users\Alpha\source\repos\BMI Calculator (Graphical)\BMI Calculator (Graphical)\obj\Debug\BMI_Calculator__Graphical_.history.resources
+C:\Users\suchi\OneDrive\Desktop\BMI-Tracker-master\BMI-Tracker-master\BMI Calculator (Graphical)\BMI Calculator (Graphical)\bin\Debug\BMI Calculator (Graphical).exe.config
+C:\Users\suchi\OneDrive\Desktop\BMI-Tracker-master\BMI-Tracker-master\BMI Calculator (Graphical)\BMI Calculator (Graphical)\bin\Debug\BMI Calculator (Graphical).exe
+C:\Users\suchi\OneDrive\Desktop\BMI-Tracker-master\BMI-Tracker-master\BMI Calculator (Graphical)\BMI Calculator (Graphical)\bin\Debug\BMI Calculator (Graphical).pdb
+C:\Users\suchi\OneDrive\Desktop\BMI-Tracker-master\BMI-Tracker-master\BMI Calculator (Graphical)\BMI Calculator (Graphical)\obj\Debug\BMI Calculator (Graphical).csprojAssemblyReference.cache
+C:\Users\suchi\OneDrive\Desktop\BMI-Tracker-master\BMI-Tracker-master\BMI Calculator (Graphical)\BMI Calculator (Graphical)\obj\Debug\BMI_Calculator__Graphical_.Form1.resources
+C:\Users\suchi\OneDrive\Desktop\BMI-Tracker-master\BMI-Tracker-master\BMI Calculator (Graphical)\BMI Calculator (Graphical)\obj\Debug\BMI_Calculator__Graphical_.history.resources
+C:\Users\suchi\OneDrive\Desktop\BMI-Tracker-master\BMI-Tracker-master\BMI Calculator (Graphical)\BMI Calculator (Graphical)\obj\Debug\BMI_Calculator__Graphical_.Properties.Resources.resources
+C:\Users\suchi\OneDrive\Desktop\BMI-Tracker-master\BMI-Tracker-master\BMI Calculator (Graphical)\BMI Calculator (Graphical)\obj\Debug\BMI Calculator (Graphical).csproj.GenerateResource.cache
+C:\Users\suchi\OneDrive\Desktop\BMI-Tracker-master\BMI-Tracker-master\BMI Calculator (Graphical)\BMI Calculator (Graphical)\obj\Debug\BMI Calculator (Graphical).csproj.CoreCompileInputs.cache
+C:\Users\suchi\OneDrive\Desktop\BMI-Tracker-master\BMI-Tracker-master\BMI Calculator (Graphical)\BMI Calculator (Graphical)\obj\Debug\BMI Calculator (Graphical).exe
+C:\Users\suchi\OneDrive\Desktop\BMI-Tracker-master\BMI-Tracker-master\BMI Calculator (Graphical)\BMI Calculator (Graphical)\obj\Debug\BMI Calculator (Graphical).pdb
